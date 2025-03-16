@@ -1,10 +1,6 @@
 <?php
 
 
-// OpenWeatherMap API Key 
-global $api_key;
-$api_key = "bd5e378503939ddaee76f12ad7a97608";
-// $api_key = "e14114279efc12ffcde8026384402e91";  // my key
 
 
 // Подключение стилей родительской и дочерней темы
